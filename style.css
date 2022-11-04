@@ -1,0 +1,505 @@
+@import url('https://fonts.cdnfonts.com/css/akrobat');
+
+body {
+background-size: cover;
+background-image: url("img/background.png");
+overflow: hidden;
+}
+
+#logo {
+position: absolute;
+width: 4.198062432723359vh;
+height: 2.95625vw;
+top: 5%;
+left: 5%;
+}
+
+#lester_mobile {
+    display: none;
+}
+
+#strich1 {
+position: absolute;
+width: 206.67384284176535vh;
+height: 0vw;
+border: 0.052083333333333336vw solid rgba(53, 53, 53, 0.6);
+left: 0%;
+top: 15%;
+}
+
+
+
+#home {
+position: absolute;
+font-family: 'Akrobat Light', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 1.0416666666666667vw;
+line-height: 1.25vw;
+color: #FFFFFF;
+left: 25%;
+top: 7%;
+text-decoration: none;
+}
+
+#home:hover {
+color: #0084ff;
+}
+
+#homestrich {
+position: absolute;
+width: 2.3681377825618943vh;
+height: 0.10416666666666667vw;
+background: #0084FF;
+box-shadow: 0wv 0wv 0.15625vw #6DB9FF;
+top: 10%;
+left: 25.5%;
+}
+
+#forum {
+position: absolute;
+font-family: 'Akrobat Light', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 1.0416666666666667vw;
+line-height: 1.25vw;
+color: #FFFFFF;
+left: 40%;
+top: 7%;
+text-decoration: none;
+}
+
+#forum:hover {
+color: #0084ff;
+}
+
+#shop {
+position: absolute;
+font-family: 'Akrobat Light', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 1.0416666666666667vw;
+line-height: 1.25vw;
+color: #FFFFFF;
+left: 55%;
+top: 7%;
+text-decoration: none;
+}
+
+#shop:hover {
+color: #0084ff;
+}
+
+#regelwerk {
+position: absolute;
+font-family: 'Akrobat Light', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 1.0416666666666667vw;
+line-height: 1.25vw;
+color: #FFFFFF;
+left: 70%;
+top: 7%;
+text-decoration: none;
+}
+
+#regelwerk:hover {
+color: #0084ff;
+}
+
+#dc {
+position: absolute;
+font-family: 'Akrobat Light', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 1.0416666666666667vw;
+line-height: 1.25vw;
+color: #FFFFFF;
+left: 85%;
+top: 7%;
+text-decoration: none;
+}
+
+#dc:hover {
+color: #0084ff;
+}
+
+#brezelrp {
+font-family: 'Apex Mk2';
+font-style: normal;
+font-weight: 700;
+font-size: 3.125vw;
+line-height: 2.5vw;
+color: #0084FF;
+}
+#brezelrpweiß {
+color: #FFFFFF;
+}
+
+#textbox {
+position: absolute;
+width: 43.05705059203444vh;
+height: 26.041666666666668vw;
+top: 30%;
+left: 60%;
+}
+
+#serverinfo {
+position: absolute;
+top: 20%;
+font-family: 'Akrobat SemiBold', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 1.3020833333333333vw;
+line-height: 1.5625vw;
+color: #FFFFFF;
+}
+
+#serverinfotext {
+position: absolute;
+top: 30%;
+font-family: 'Akrobat Light', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 0.625vw;
+line-height: 0.7291666666666666vw;
+color: rgba(255, 255, 255, 0.5);
+}
+
+
+#serverextra {
+position: absolute;
+top: 50%;
+font-family: 'Akrobat SemiBold', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 1.3020833333333333vw;
+line-height: 1.5625vw;
+color: #FFFFFF;
+}
+
+#serverextratext {
+position: absolute;
+top: 60%;
+font-family: 'Akrobat Light', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 0.625vw;
+line-height: 0.7291666666666666vw;
+color: rgba(255, 255, 255, 0.5);
+}
+
+#play {
+position: absolute;
+width: 44.13347685683531vh;
+height: 4.583333333333333vw;
+background: rgba(0, 132, 255, 0.8);
+box-shadow: 0vw 0vw 0.2604166666666667vw #65C7FF;
+border-radius: 0.2604166666666667vw;
+text-align: center;
+top: 80%;
+left: 60%;
+}
+
+
+#playtext {
+position: absolute;
+left: 40%;
+top: 30%;
+font-family: 'Akrobat Light', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 1.8229166666666667vw;
+line-height: 2.1875vw;
+color: #000000;
+}
+
+#lester {
+   position: absolute; 
+   max-width: 100%;
+   height: auto;;
+   left: -20%;
+   top: 10%;
+}
+
+#logotext {
+position: absolute;
+top: 50%;
+font-family: 'Akrobat Bold', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 1.5416666666666667vw;
+line-height: 1.5625vw;
+color: #0084FF;
+top: 5.4%;
+left: 9%;
+}
+
+#logotext2 {
+position: absolute;
+top: 80%;
+left: 0%;
+font-size: 1.254166666666666vw;
+color: #FFFFFF;
+}
+
+#play {
+position: absolute;
+width: 44.13347685683531vh;
+height: 4.583333333333333vw;
+background: rgba(0, 132, 255, 0.8);
+box-shadow: 0vw 0vw 0.2604166666666667vw #65C7FF;
+border-radius: 0.2604166666666667vw;
+text-align: center;
+top: 80%;
+left: 60%;
+cursor: pointer;
+}
+
+#play{
+    cursor: pointer;
+    display: inline-block;
+    transition: 0.5s;
+    }
+    
+    #play:after {
+        content: '▶';
+        font-family: 'Akrobat Light', sans-serif;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 1.8229166666666667vw;
+        line-height: 2.1875vw;
+        color: #000000;
+        position: absolute;
+        opacity: 0;  
+        top: 30%;
+        left: 40%;
+        transition: 0.3s;
+        }
+        
+    #play:hover{
+    padding-right: 2%;
+    padding-left:1%;
+    }
+    
+    #play:hover:after {
+    opacity: 1;
+    right: 2%;
+    }
+#mobile-trigger {
+    display: none;
+}
+#mobilenav {
+    display: none;
+}
+@media (max-width: 1000px) {
+body {
+    overflow-x: hidden;
+    background-image: url(img/bg_mobile.png);
+}
+  #logo {
+    position: absolute;
+    width: 9.558557588805167vw;
+    height: 7.2395833333333335vh;
+    top: 2%;
+    left: 28%;
+    }
+    #logotext {
+        position: absolute;
+        top: 50%;
+        font-family: 'Akrobat Light', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 8.0416666666666667vw;
+        line-height: 8.5625vw;
+        color: #0084FF;
+        top: 2%;
+        left: 40%;
+        }
+        
+        #logotext2 {
+        position: absolute;
+        top: 80%;
+        left: 0%;
+        font-size: 6.8854166666666666vw;
+        color: #FFFFFF;
+        }
+        
+#brezelrp {
+    font-family: 'Akrobat Light', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 8.125vw;
+    line-height: 2.5vw;
+    color: #0084FF;
+    position: absolute;
+    left: 12.5%;
+    }
+    #brezelrpweiß {
+    color: #FFFFFF;
+    }
+        #textbox {
+            position: absolute;
+            width: 83.05705059203444vh;
+            height: 66.041666666666668vw;
+            top: 30%;
+            left: 5%;
+            text-align: left;
+            }
+            
+            #serverinfo {
+            position: absolute;
+            top: 20%;
+            font-family: 'Akrobat Light', sans-serif;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 5.3020833333333333vw;
+            line-height: 1.5625vw;
+            color: #FFFFFF;
+            }
+            
+            #serverinfotext {
+            position: absolute;
+            top: 30%;
+            font-family: 'Akrobat Light', sans-serif;
+            font-style: normal;
+            font-weight: 300;
+            font-size: 2.625vw;
+            line-height: 2.991666666666666vw;
+            color: rgba(255, 255, 255, 0.5);
+            }
+            
+            
+            #serverextra {
+            position: absolute;
+            top: 50%;
+            font-family: 'Akrobat Light', sans-serif;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 5.3020833333333333vw;
+            line-height: 1.5625vw;
+            color: #FFFFFF;
+            }
+            
+            #serverextratext {
+                position: absolute;
+                top: 60%;
+                font-family: 'Akrobat Light', sans-serif;
+                font-style: normal;
+                font-weight: 300;
+                font-size: 2.625vw;
+                line-height: 2.991666666666666vw;
+                color: rgba(255, 255, 255, 0.5);
+                }
+                #lester {
+                    position: fixed; 
+                    max-width: 100%;
+                    height: auto;;
+                    left: -35%;
+                    top: 15%;
+                opacity: 20%;
+                }
+
+                #play {
+                    position: absolute;
+                    width: 24.13347685683531vh;
+                    height: 10.583333333333333vw;
+                    background: rgba(0, 132, 255, 0.8);
+                    box-shadow: 0vw 0vw 0.2604166666666667vw #65C7FF;
+                    border-radius: 0.2604166666666667vw;
+                    text-align: center;
+                    top: 80%;
+                    left: 30%;
+                    }
+                    
+                    
+                    #playtext {
+                    position: absolute;
+                    left: 33.2%;
+                    top: 40%;
+                    font-family: 'Akrobat Light', sans-serif;
+                    font-style: normal;
+                    font-weight: 300;
+                    font-size: 7.8229166666666667vw;
+                    line-height: 2.1875vw;
+                    color: #000000;
+                    }
+                    
+#home {
+    position: absolute;
+    font-family: 'Akrobat Light', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3.5416666666666667vw;
+    line-height: 1.25vw;
+    color: #FFFFFF;
+    left: 10%;
+    top: 15%;
+    text-decoration: none;
+    }
+    
+    #forum {
+    position: absolute;
+    font-family: 'Akrobat Light', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3.5416666666666667vw;
+    line-height: 1.25vw;
+    color: #FFFFFF;
+    left: 25%;
+    top: 15%;
+    text-decoration: none;
+    }
+    
+    
+    #shop {
+    position: absolute;
+    font-family: 'Akrobat Light', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3.5416666666666667vw;
+    line-height: 1.25vw;
+    color: #FFFFFF;
+    left: 41%;
+    top: 15%;
+    text-decoration: none;
+    }
+    
+    
+    
+    #regelwerk {
+    position: absolute;
+    font-family: 'Akrobat Light', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3.5416666666666667vw;
+    line-height: 1.25vw;
+    color: #FFFFFF;
+    left: 55%;
+    top: 15%;
+    text-decoration: none;
+    }
+    
+   
+    
+#dc {
+position: absolute;
+font-family: 'Akrobat Light', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 3.5416666666666667vw;
+line-height: 1.25vw;
+color: #FFFFFF;
+left: 75%;
+top: 15%;
+text-decoration: none;
+}
+
+#homestrich {
+display: none;
+}
+#strich1 {
+display: none;
+}
+}
+
