@@ -69,6 +69,19 @@ top: 7%;
 text-decoration: none;
 }
 
+#copyright {
+position: absolute;
+font-family: 'Akrobat Light', sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 1.0416666666666667vw;
+line-height: 1.25vw;
+color: #525252;
+left: 40%;
+top: 95%;
+text-decoration: none;
+}
+
 #forum:hover {
 color: #0084ff;
 }
